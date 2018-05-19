@@ -12,6 +12,9 @@ Resources, snippets, and what not to share
 * http://packetlife.net
   * Kinda an old one and it doesn't seem to have too much new content, but still has some good info
   
+* PacketPushers PodCast: http://packetpushers.net
+  * Weekly network stuff discussion. Good place to stay in touch with how the industry is trending and keep up to date with all the latest Networking technologies and news
+  
 ## Python Resources
 * docs.python.org
   * duh.. read the fucking docs
