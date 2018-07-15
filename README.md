@@ -56,3 +56,7 @@ https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
 * I’m on everyday, great people - https://codebuddies.org
 * I’m on everyday - good people, network engineers and ITDevops types - https://networktocode.slack.com
 * Great people, in Raleigh area who are willing to help and give talks - http://trizpug.org (Raleigh python meet up group) (I go 2-3 times a month)
+
+
+### PODCasts
+* Talk Python To Me https://talkpython.fm
