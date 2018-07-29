@@ -60,3 +60,7 @@ https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
 
 ### PODCasts
 * Talk Python To Me https://talkpython.fm
+
+
+### Splunk stuff
+* [Splunk Resources](SplunkREADME.md)
