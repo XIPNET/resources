@@ -63,4 +63,4 @@ https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
 
 
 ### Splunk stuff
-* [Splunk Resources](SplunkREADME.md)
+* [Splunk Resources](Splunk.md)
