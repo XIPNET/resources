@@ -11,15 +11,13 @@ Docs and more info on the container can be found here
 
 ```bash
 docker run -d \
--e "SPLUNK_START_ARGS=--accept-license" \
+-e "SPLUNK_START_ARGS=--accept-license --seed-passwd yourpassword" \
 --name splunk \
 -p "8000:8000" \
 -p "8089:8089" \
 -p "8191:8191" \
 -p "9997:9997" \
--p "1514:1514" \
--v splunk_etc:/opt/splunk/etc:rw \
--v splunk_var:/opt/splunk/var:rw \
+-p "1514:1514/udp" \
 splunk/splunk
 ```
 I will add a full walk through, but wanted to get this up here.
